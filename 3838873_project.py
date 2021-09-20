@@ -1,17 +1,5 @@
 
-"""
-    * * * [Note] * * *
-
-    ** Run this code using the Python IDLE environment, do not 
-    ** use Spyder (Anaconda) as it does simulate the path of the object in real time.
-    ** The python IDLE environment (python command prompt) displays the object/motion in real time.
-
-"""
-
 # Xola Kota
-# 3838873
-# Computational Physics 322
-# project
 
 
 """ 
